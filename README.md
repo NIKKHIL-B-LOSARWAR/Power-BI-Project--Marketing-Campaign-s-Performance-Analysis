@@ -72,13 +72,13 @@ their social media?
 Ans: 
 Customer Category wise highest engagement in terms of social sharing 
 - Age Group: Adults - 41% (25 to 45 aged) (164k shares)  
-• Gender: Females - 60% (241k shares) 
-• Loyalty Category:  
-High - 30% (121k Shares) 
-Average - 30% (120k shares) 
-• Income-level Category:  
-High-Income Class - 39% (155K shares)  
-Higher Middle Class - 38% (149k shares) 
+- Gender: Females - 60% (241k shares) 
+- Loyalty Category:  
+    - High - 30% (121k Shares) 
+    - Average - 30% (120k shares) 
+- Income-level Category:  
+    - High-Income Class - 39% (155K shares)  
+    - Higher Middle Class - 38% (149k shares) 
 
 
 ❖ What age group of customers are the high potential customers based on the past 
@@ -97,11 +97,11 @@ impulsively.
 ❖ What is the conversion % for individual channels? 
 Ans: 
 Conversion % for Channel- 
-• PPC = 88.3% 
-• Referral = 88.3% 
-• SEO = 87.7% 
-• Email = 87% 
-• Social media = 86.8% 
+- PPC = 88.3% 
+- Referral = 88.3% 
+- SEO = 87.7% 
+- Email = 87% 
+- Social media = 86.8% 
 
 
 ❖ What are the bottom two campaign channels that are generating the least website 
@@ -115,10 +115,10 @@ visits by female customers.
 customers?  
 Ans: 
 Channel with Highest Avg. CTR%, in every age group- 
-Young (Below 25) = PPC (16.2%) 
-Adult (25 to 45) = PPC (15.9%) 
-Senior Adult (45 to 60) = Social Media (16%) 
-Old (Above 60) = Email (17%)
+- Young (Below 25) = PPC (16.2%) 
+- Adult (25 to 45) = PPC (15.9%) 
+- Senior Adult (45 to 60) = Social Media (16%) 
+- Old (Above 60) = Email (17%)
 
 
 
