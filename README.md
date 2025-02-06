@@ -57,21 +57,21 @@ single Dashboard.
 ## Uncovered Data Insights:
 
 ❖ List of important KPIs 
-• Total Spending budget of the campaign Ads = Rs. 40 Million (Rs. 4 crores) 
-• Adspent per customer  =  Rs. 5,000 (Approx.) 
-• Total Conversion rate  =  Around 88% 
-• Website visits during the campaign = 1 lack 98 thousand visits (2 lack visits 
+- Total Spending budget of the campaign Ads = Rs. 40 Million (Rs. 4 crores) 
+- Adspent per customer  =  Rs. 5,000 (Approx.) 
+- Total Conversion rate  =  Around 88% 
+- Website visits during the campaign = 1 lack 98 thousand visits (2 lack visits 
 approx). 
-• Avg. CTR% for the campaign = 15.5% 
-• Avg. Pages per visit = 5 pagers 
-• Total customer base captured in the campaign = 8k Customers 
+- Avg. CTR% for the campaign = 15.5% 
+- Avg. Pages per visit = 5 pagers 
+- Total customer base captured in the campaign = 8k Customers 
 
 
 ❖ Which customer category has shown higher engagement in terms of sharing ads on 
 their social media? 
 Ans: 
 Customer Category wise highest engagement in terms of social sharing 
-• Age Group: Adults - 41% (25 to 45 aged) (164k shares)  
+- Age Group: Adults - 41% (25 to 45 aged) (164k shares)  
 • Gender: Females - 60% (241k shares) 
 • Loyalty Category:  
 High - 30% (121k Shares) 
